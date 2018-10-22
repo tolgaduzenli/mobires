@@ -1,0 +1,9 @@
+{
+  "screens": {
+    "home": "Home",
+    "summary": "Summary",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills"
+  }
+}

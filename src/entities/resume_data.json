@@ -1,0 +1,43 @@
+{
+    "categories": [
+        {
+            "General": {
+                "name": "Tolga",
+                "surname": "Duzenli",
+                "title": "Software Engineer",
+                "email": "tolgaduzenli.cs@gmail.com",
+                "phone": "+447240137723",
+                "linkedin": "https://linkedin.com/tolgaduzenli",
+                "github": "https://www.github.com/tolgaduzenli",
+                "webpage": "https://www.tolgaduzenli.com"
+            }
+        },
+        {
+            "summary": "Details of summary"
+        },
+        {
+            "Experience": [
+                {
+                    "company": "HSBC Service Delivery",
+                    "location": "Krakow, Poland",
+                    "title": "Full Stack Software Engineer",
+                    "dates": "March 2015 - June 2016",
+                    "details": {
+                        "1": "Worked on internal Web Application which provides statistical data from different tools(Sonar, Selenium, Jenkins, Jira) based on project analyzes.",
+                        "1.1": "Had responsibility to gather the business requirements like a Business Analyst.",
+                        "1.2": "Used technologies ​Spring-Boot​, ​Rest APIs​, ​AngularJs​, ​Bootstrap 3​, MS-SQL."
+                    }
+                }
+            ]
+        },
+        {
+            "Education": []
+        },
+        {
+            "Skills": []
+        },
+        {
+            "Projects": []
+        }
+    ]
+}

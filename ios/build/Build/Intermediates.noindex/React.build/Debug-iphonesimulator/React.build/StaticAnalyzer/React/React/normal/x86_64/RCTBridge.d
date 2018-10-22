@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/tolgaduzenli/Documents/Development/Projects/PersonalProjects/ReactNative/MobiRes/node_modules/react-native/React/Base/RCTReloadCommand.h
